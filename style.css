@@ -9,7 +9,7 @@
 
 @media (max-width: 767px) {
     .logo img {
-      max-width: 270px;
+      max-width: 340px;
     }
     body {
       overflow-x: hidden;
